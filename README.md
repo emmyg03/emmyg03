@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Emma :octocat:
 
-<!--
-**emmyg03/emmyg03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently pursuing a Bachelor of Science in Computer Engineering with a minor in Mathematics from Wright State University.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools
+[![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
+[![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
+
+---
+
+### Projects
+- Media Tracker
+  - Created a design for a media tracker web application that can log the movies and tv shows a user watches.
+  - Actualized the functionality using SQLite as the database engine to store user and media information and used FastAPI as the web framework.  
+- Pomodoro Timer
+  -  Designed and styled a pomodoro timer web application using HTML and CSS with flexbox.
+  -  Implemented the timer functionality for three intervals: a pomodoro session, a short break, and a long break using JavaScript. 
